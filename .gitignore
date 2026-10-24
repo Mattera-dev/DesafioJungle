@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-ssr/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+*.local
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+

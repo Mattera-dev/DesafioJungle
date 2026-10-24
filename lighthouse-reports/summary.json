@@ -1,0 +1,214 @@
+{
+  "executedAt": "2026-10-24T15:29:58.779Z",
+  "runtime": "Bun 1.4.3",
+  "browserExecutable": "C:\\Users\\vinim\\AppData\\Local\\ms-playwright\\chromium-1248\\chrome-win64\\chrome.exe",
+  "os": "win32 x64",
+  "baseUrl": "http://localhost:4173",
+  "runsPerPageAndProfile": 3,
+  "results": [
+    {
+      "page": "home",
+      "url": "http://localhost:4173/",
+      "profile": "mobile",
+      "medians": {
+        "performance": 89,
+        "accessibility": 91,
+        "bestPractices": 93,
+        "seo": 92,
+        "lcpMs": 3022,
+        "cls": 0.0134,
+        "tbtMs": 81
+      },
+      "rawRuns": {
+        "performance": [
+          89,
+          89,
+          89
+        ],
+        "accessibility": [
+          91,
+          91,
+          91
+        ],
+        "bestPractices": [
+          93,
+          93,
+          93
+        ],
+        "seo": [
+          92,
+          92,
+          92
+        ],
+        "lcpMs": [
+          3028,
+          3022,
+          3017
+        ],
+        "cls": [
+          0,
+          0.0134,
+          0.0134
+        ],
+        "tbtMs": [
+          81,
+          89,
+          53
+        ]
+      }
+    },
+    {
+      "page": "home",
+      "url": "http://localhost:4173/",
+      "profile": "desktop",
+      "medians": {
+        "performance": 100,
+        "accessibility": 93,
+        "bestPractices": 96,
+        "seo": 92,
+        "lcpMs": 661,
+        "cls": 0.001,
+        "tbtMs": 0
+      },
+      "rawRuns": {
+        "performance": [
+          100,
+          100,
+          100
+        ],
+        "accessibility": [
+          93,
+          93,
+          93
+        ],
+        "bestPractices": [
+          96,
+          96,
+          96
+        ],
+        "seo": [
+          92,
+          92,
+          92
+        ],
+        "lcpMs": [
+          661,
+          669,
+          619
+        ],
+        "cls": [
+          0.001,
+          0.001,
+          0.001
+        ],
+        "tbtMs": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "page": "nft-detail",
+      "url": "http://localhost:4173/nft/emerald-ape-042",
+      "profile": "mobile",
+      "medians": {
+        "performance": 87,
+        "accessibility": 93,
+        "bestPractices": 96,
+        "seo": 92,
+        "lcpMs": 3278,
+        "cls": 0.0001,
+        "tbtMs": 23
+      },
+      "rawRuns": {
+        "performance": [
+          88,
+          87,
+          86
+        ],
+        "accessibility": [
+          93,
+          93,
+          93
+        ],
+        "bestPractices": [
+          96,
+          96,
+          96
+        ],
+        "seo": [
+          92,
+          92,
+          92
+        ],
+        "lcpMs": [
+          3239,
+          3278,
+          3396
+        ],
+        "cls": [
+          0.0001,
+          0.0001,
+          0.0044
+        ],
+        "tbtMs": [
+          23,
+          26,
+          15
+        ]
+      }
+    },
+    {
+      "page": "nft-detail",
+      "url": "http://localhost:4173/nft/emerald-ape-042",
+      "profile": "desktop",
+      "medians": {
+        "performance": 96,
+        "accessibility": 96,
+        "bestPractices": 96,
+        "seo": 92,
+        "lcpMs": 767,
+        "cls": 0.1142,
+        "tbtMs": 0
+      },
+      "rawRuns": {
+        "performance": [
+          96,
+          96,
+          96
+        ],
+        "accessibility": [
+          96,
+          96,
+          96
+        ],
+        "bestPractices": [
+          96,
+          96,
+          96
+        ],
+        "seo": [
+          92,
+          92,
+          92
+        ],
+        "lcpMs": [
+          729,
+          767,
+          767
+        ],
+        "cls": [
+          0.1142,
+          0.1142,
+          0.1142
+        ],
+        "tbtMs": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}
